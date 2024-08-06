@@ -1,0 +1,22 @@
+name = "hono-url-shortener-worker"
+compatibility_date = "2024-08-06"
+
+
+#[vars]
+
+[[kv_namespaces]]
+binding = "KV"
+id = "9ecc50f42f114cfe950269d685913589"
+preview_id = "9ecc50f42f114cfe950269d685913589"
+
+# [[r2_buckets]]
+# binding = "MY_BUCKET"
+# bucket_name = "my-bucket"
+
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "my-database"
+# database_id = ""
+
+# [ai]
+# binding = "AI"
